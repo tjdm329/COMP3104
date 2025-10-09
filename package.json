@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage": "https://tjdm329.github.com/COMP3104",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -21,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/tjdm329/COMP3104/issues"
   },
-  "homepage": "https://github.com/tjdm329/COMP3104",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
